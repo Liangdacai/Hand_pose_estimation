@@ -17,3 +17,5 @@ if you want to use heatmap to calculate hand keypoints,--use_heatmap==True
 ![Image text](https://github.com/Liangdacai/Hand_pose_estimation/blob/Jay-Neo/inference/aaa.jpg)
 
 if you want to directly return to 21 hand keypoints,--use_heatmap==True
+
+![Image text](https://github.com/Liangdacai/Hand_pose_estimation/blob/Jay-Neo/inference/bbb.jpg)
