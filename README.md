@@ -12,11 +12,11 @@ only the heatmap can be calculated
 run demo
 --python detect.py
 
-if you want to use heatmap to calculate hand keypoints,--use_heatmap==True
+if you want to use heatmap to calculate hand keypoints,--use_heatmap==True,--hand_pose_weight use checkpoint_iter_105000.pth or checkpoint_iter_1100000.pth
 
 ![Image text](https://github.com/Liangdacai/Hand_pose_estimation/blob/Jay-Neo/inference/aaa.jpg)
 
-if you want to directly return to 21 hand keypoints,--use_heatmap==True
+if you want to directly return to 21 hand keypoints,--use_heatmap==True,--hand_pose_weight only use checkpoint_iter_105000.pth
 
 ![Image text](https://github.com/Liangdacai/Hand_pose_estimation/blob/Jay-Neo/inference/bbb.jpg)
 
